@@ -17,7 +17,7 @@
 			<tr>
 				<th>タイトル</th>
 				<th>種類</th>
-				<th>価格</th>
+				<th>あああああ</th>
 				<th>ISBN</th>
 			</tr>
 		</thead>

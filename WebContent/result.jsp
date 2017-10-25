@@ -15,7 +15,7 @@
 	<table border="1">
 		<thead>
 			<tr>
-				<th>タイトル</th>
+				<th>あああ</th>
 				<th>種類</th>
 				<th>いいい</th>
 				<th>ISBN</th>
